@@ -1,0 +1,1 @@
+# Bu bölümde, [Patika.dev](https://academy.patika.dev)'den almış olduğum Front-End eğitimim süresince almış olduğum notları ve projeleri paylaşıyorum. İyi Okumalar !
